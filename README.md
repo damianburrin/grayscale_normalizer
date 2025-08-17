@@ -1,9 +1,9 @@
 # grayscale_normalizer
-
+Created by Chris Fulton
 <img width="1172" height="800" alt="image" src="https://github.com/user-attachments/assets/0d59bc59-aefb-4eeb-af92-05a7dd542dd9" />
 
 
-Created by Chris Fulton
+
 Grayscale Normalizer – simple Windows UI (Tkinter)
 
 Updates (2025-08-16)
