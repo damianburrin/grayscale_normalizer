@@ -41,14 +41,12 @@ Open the source code with python3 and run the script
 
 <H2>Windows Stand Alone Execuatable</H2>
 Download the grey scale normalizer zip file and extract the contents 
+<img width="868" height="232" alt="image" src="https://github.com/user-attachments/assets/de81fffa-beea-424a-a7b1-57a2c32e4ccb" />
+
 Double click on the executable
 Windows will identify that this is an unkown publisher
 <img width="585" height="514" alt="image" src="https://github.com/user-attachments/assets/323e64a3-65e3-4bf9-a6fb-e7136c059a72" />
 Click Run Anyway and the utility will load
-
-
-
-
 
 
 <H1>Use</H1>
