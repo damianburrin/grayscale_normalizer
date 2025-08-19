@@ -1,4 +1,4 @@
-# grayscale_normalizer
+#Grayscale Normalizer / Greyscale Normaliser
 Created by Chris Fulton
 <img width="1172" height="800" alt="image" src="https://github.com/user-attachments/assets/0d59bc59-aefb-4eeb-af92-05a7dd542dd9" />
 
