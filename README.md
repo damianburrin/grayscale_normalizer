@@ -1,5 +1,5 @@
 <H1>Grayscale Normalizer / Greyscale Normaliser</H1>
-This software was developed by Created by Chris Fulton and is hosted here with his permisin.  Chris wants the utility to be accesbile free to all and hopefully developed and improved upon the the Laser Engraving Community
+This software was developed by Created by Chris Fulton and is hosted here with his permission.  Chris wants the utility to be accesbile free to all and hopefully developed and improved upon the the Laser Engraving Community
 
 
 <img width="1172" height="800" alt="image" src="https://github.com/user-attachments/assets/0d59bc59-aefb-4eeb-af92-05a7dd542dd9" />
