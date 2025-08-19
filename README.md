@@ -64,8 +64,11 @@ Click Run Anyway and the utility will load
 3.  Press Normalize
 <img width="1867" height="918" alt="image" src="https://github.com/user-attachments/assets/6e30a1b6-9ad8-4bd7-8b48-2113ff7a44c5" />
 
-4.  Save the output image  
-7.  Use lightburn 3D slicing mode to engrave you image.
+4.  Save the output image
+   
+5.  Use lightburn 3D slicing mode to engrave you image with your preferred setting for the material you are using
+<img width="510" height="691" alt="image" src="https://github.com/user-attachments/assets/edf33078-3dd9-44d3-b322-f17c4a2f8b9f" />
+
 
 
 
