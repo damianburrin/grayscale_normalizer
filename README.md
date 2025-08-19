@@ -51,6 +51,10 @@ Click Run Anyway and the utility will load
 
 
 <H1>Use</H1>
+
+<img width="647" height="655" alt="image" src="https://github.com/user-attachments/assets/28b1e065-a115-4881-8ec6-7f2c85e5489c" />
+
+
 1.  Use a tool such as SculptOK or Imag-R to convert your image to an image depth map
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/9516aadf-8430-482d-be4b-01e965095892" />
 
