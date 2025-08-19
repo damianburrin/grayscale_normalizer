@@ -31,6 +31,26 @@ In laser engraving, setting the number of layers to 256 (or a factor of it like 
 
 When images are downloaded from tools such a SculptOK or Imag-R they are not always fully optimised with 256 specic shades of of grey.  This tool enables that optimisation in hope of procuing cleaner depth maps for engraving.
 
+<H1>Installing/Running</H1>
+To run this tool you can use one of the following methods
+
+<H2>Using Python</H2>
+Download the source code from the repository
+Pip install the Pillow library (pip install PIL or pip3 install PIL)
+Open the source code with python3 and run the script
+
+<H2>Windows Stand Alone Execuatable</H2>
+Download the grey scale normalizer zip file and extract the contents 
+Double click on the executable
+Windows will identify that this is an unkown publisher
+<img width="585" height="514" alt="image" src="https://github.com/user-attachments/assets/323e64a3-65e3-4bf9-a6fb-e7136c059a72" />
+Click Run Anyway and the utility will load
+
+
+
+
+
+
 <H1>Use</H1>
 1.  Use a tool such as SculptOK or Imag-R to convert your image to an image depth map
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/9516aadf-8430-482d-be4b-01e965095892" />
