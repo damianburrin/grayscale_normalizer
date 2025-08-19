@@ -29,7 +29,7 @@ In laser engraving, setting the number of layers to 256 (or a factor of it like 
 When images are downloaded from tools such a SculptOK or Imag-R they are not always fully optimised with 256 specic shades of of grey.  This tool enables that optimisation in hope of procuing cleaner depth maps for engraving.
 
 <H1>Use</H1>
-1.  Use a tool such as Sculptfun or Imag-R to convert your image to an image depth map
+1.  Use a tool such as SculptOK or Imag-R to convert your image to an image depth map
 <img width="1914" height="1079" alt="image" src="https://github.com/user-attachments/assets/9516aadf-8430-482d-be4b-01e965095892" />
 
 2.  Adust the gamma and levels as required
