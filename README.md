@@ -4,6 +4,9 @@ This software was developed by Created by Chris Fulton and is hosted here with h
 
 <img width="1172" height="800" alt="image" src="https://github.com/user-attachments/assets/0d59bc59-aefb-4eeb-af92-05a7dd542dd9" />
 
+<img width="1919" height="1077" alt="image" src="https://github.com/user-attachments/assets/49ecb4a5-81a6-4d86-8910-72279500eef2" />
+
+
 
 Grayscale Normalizer – simple Windows UI (Tkinter)
 
