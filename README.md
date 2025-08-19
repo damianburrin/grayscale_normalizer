@@ -1,4 +1,4 @@
-<H11>Grayscale Normalizer / Greyscale Normaliser</H1>
+<H1>Grayscale Normalizer / Greyscale Normaliser</H1>
 Created by Chris Fulton
 <img width="1172" height="800" alt="image" src="https://github.com/user-attachments/assets/0d59bc59-aefb-4eeb-af92-05a7dd542dd9" />
 
