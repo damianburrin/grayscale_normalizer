@@ -46,6 +46,7 @@ Download the grey scale normalizer zip file and extract the contents
 Double click on the executable
 Windows will identify that this is an unkown publisher
 <img width="585" height="514" alt="image" src="https://github.com/user-attachments/assets/323e64a3-65e3-4bf9-a6fb-e7136c059a72" />
+
 Click Run Anyway and the utility will load
 
 
